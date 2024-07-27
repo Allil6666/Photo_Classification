@@ -1,3 +1,5 @@
+pip install tensorflow streamlit
+
 import streamlit as st
 import numpy as np
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
